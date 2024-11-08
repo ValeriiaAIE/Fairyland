@@ -1,4 +1,0 @@
-repository "Fairyland/Fairyland@16767938482824@cloud"
-  path "/"
-    br "/main"
-    co "/main"
